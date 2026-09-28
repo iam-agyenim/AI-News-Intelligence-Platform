@@ -1,0 +1,5 @@
+# Optional (~2GB): Hugging Face sentiment, abstractive summaries, embedding-based search.
+# Install, then run the API with ENABLE_TRANSFORMERS=1
+torch>=2.2
+transformers>=4.40
+sentence-transformers>=3.0
